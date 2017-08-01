@@ -1,0 +1,16 @@
+body {
+	background: #3d3d3d;
+	color: #fff;
+	margin: 0;
+	padding: 0;
+	font-size: 14px;
+}
+
+.wrap {
+	width: 900px;
+	margin: 0 auto;
+}
+
+h1 {
+	font-size: 34px;
+}
